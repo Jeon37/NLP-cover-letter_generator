@@ -21,10 +21,10 @@
 
 
 ### ✔️파일 설명
-1. 알고리즘
-train.ipynb: 데이터 전처리 및 GPT2 fine-tuning
+1. 알고리즘  
+train.ipynb: 데이터 전처리 및 GPT2 fine-tuning  
 generate.ipynb: fine-tuning을 완료한 모델을 불러와 새로운 자기소개서 생성
 
-2. 데이터셋
+2. 데이터셋  
 preprocessed_data.csv: 잡코리아와 링커리어에서 합격자기소개서 크롤링 후 전처리 완료한 데이터
 - 출처 : [링커리어](https://linkareer.com/cover-letter/search),[잡코리아](https://www.jobkorea.co.kr/starter/passassay/)
