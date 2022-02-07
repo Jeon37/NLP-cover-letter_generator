@@ -13,4 +13,4 @@ preprocessed_data.csv: 잡코리아와 링커리어에서 합격자기소개서 
 출처 : https://linkareer.com/cover-letter/search (링커리어)
 
 ### 💻문장 생성 실행 코드(Open in Colab)
-[open in colab](https://colab.research.google.com/drive/13HgvbQUEMJ9tfIg2yoxKKaLKEblVefY8#scrollTo=lDt7zs0MbTQ-)
+[open in colab](https://colab.research.google.com/drive/1D5DCA-ulr_J_h6H12ZgcotHRfmIzSOBA?usp=sharing)
